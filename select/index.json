@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "dont let me go",
+  "base_artist": "mgk",
+  "createdAt": "2026-02-10T10:22:46.157667Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Let Me Go",
+      "artist": "Thornwill",
+      "has_synced": false,
+      "path": "select/01_Don't_Let_Me_Go_Thornwill.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Let Me Go",
+      "artist": "Vök",
+      "has_synced": false,
+      "path": "select/02_Don't_Let_Me_Go_Vök.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Let Me Go",
+      "artist": "Asa",
+      "has_synced": true,
+      "path": "select/03_Don't_Let_Me_Go_Asa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't let me go",
+      "artist": "Origa",
+      "has_synced": false,
+      "path": "select/04_Don't_let_me_go_Origa.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Let Me Go",
+      "artist": "Bernhoft",
+      "has_synced": true,
+      "path": "select/05_Don't_Let_Me_Go_Bernhoft.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don't Let Me Go",
+      "artist": "Roniit",
+      "has_synced": false,
+      "path": "select/06_Don't_Let_Me_Go_Roniit.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don’t Let Me Go",
+      "artist": "LAY",
+      "has_synced": true,
+      "path": "select/07_Don’t_Let_Me_Go_LAY.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don't Let Me Go",
+      "artist": "Rogue",
+      "has_synced": false,
+      "path": "select/08_Don't_Let_Me_Go_Rogue.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don’t Let Me Go",
+      "artist": "Rochelle",
+      "has_synced": true,
+      "path": "select/09_Don’t_Let_Me_Go_Rochelle.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Let Me Go",
+      "artist": "skirts",
+      "has_synced": false,
+      "path": "select/10_Don't_Let_Me_Go_skirts.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Unreachable Passion - Don't Let Me Go / Jyounetsu Ni Todokanai - Don't Let Me Go",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/11_Unreachable_Passion_-_Don't_Let_Me_Go___Jyounetsu_Ni_Todokanai_-_Don't_Let_Me_Go_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't Let Me Go",
+      "artist": "Brian McKnight",
+      "has_synced": false,
+      "path": "select/12_Don't_Let_Me_Go_Brian_McKnight.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't Let Me Go",
+      "artist": "Mikal Cronin",
+      "has_synced": false,
+      "path": "select/13_Don't_Let_Me_Go_Mikal_Cronin.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Let Me Go",
+      "artist": "JEON SOMI",
+      "has_synced": true,
+      "path": "select/14_Don't_Let_Me_Go_JEON_SOMI.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Let Me Go",
+      "artist": "Goldfinger",
+      "has_synced": true,
+      "path": "select/15_Don't_Let_Me_Go_Goldfinger.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't Let Me Go",
+      "artist": "Symfonia",
+      "has_synced": true,
+      "path": "select/16_Don't_Let_Me_Go_Symfonia.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Don't Let Me Go",
+      "artist": "Grabbitz",
+      "has_synced": true,
+      "path": "select/17_Don't_Let_Me_Go_Grabbitz.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Don't Let Me Go",
+      "artist": "10cm",
+      "has_synced": true,
+      "path": "select/18_Don't_Let_Me_Go_10cm.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Don't Let Me Go",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/19_Don't_Let_Me_Go_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Don't Let Me Go",
+      "artist": "Kelvin Jones",
+      "has_synced": true,
+      "path": "select/20_Don't_Let_Me_Go_Kelvin_Jones.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "dont let me go",
+      "artist": "mgk",
+      "has_synced": false,
+      "path": "select/pl_01_dont_let_me_go_mgk.txt"
+    }
+  ]
+}
